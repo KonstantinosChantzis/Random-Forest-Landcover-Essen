@@ -1,0 +1,7 @@
+class_code,class_name,pixels,area_km2,share_percent
+10,Water,58987,5.9,5.2
+20,Developed,701611,70.16,61.9
+40,Forest,291014,29.1,25.7
+80,Planted / Cultivated,58686,5.87,5.2
+99,Cloud_Shadow,23772,2.38,2.1
+,Total,1134070,113.41,100.0

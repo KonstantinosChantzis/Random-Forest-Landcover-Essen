@@ -1,0 +1,6 @@
+class_code,class_name,map_total,reference_total,correct,users_accuracy,producers_accuracy
+10,Water,5,1,1,0.2,1.0
+20,Developed,49,43,36,0.7347,0.8372
+40,Forest,21,24,14,0.6667,0.5833
+80,Planted / Cultivated,5,14,4,0.8,0.2857
+99,Cloud_Shadow,5,3,2,0.4,0.6667

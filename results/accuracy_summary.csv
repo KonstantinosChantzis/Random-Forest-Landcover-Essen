@@ -1,0 +1,3 @@
+version,n,overall_accuracy,kappa
+initial (reference labels from World Imagery),85,0.6471,0.4323
+final (reference checked against the Sentinel-2 scene of 2026-09-15),85,0.6706,0.4739
